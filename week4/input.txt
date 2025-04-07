@@ -1,0 +1,5 @@
+Interesting content learned.
+Handling files.
+Handling errors in the files.
+Use with open().
+Throw errors appropriately.
